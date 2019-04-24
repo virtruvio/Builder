@@ -23,8 +23,8 @@
         "doctrine/dbal": "^2.5",
         "illuminate/support": "^5.7",
         "grafite/crudmaker": "^1.4",
-        "grafite/crypto": "dev-master as 1.0.x-dev",
-        "grafite/formmaker": "dev-master as 1.3.x-dev"
+        "grafite/crypto": "dev-bugfix",
+        "grafite/formmaker": "dev-bugfix"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
