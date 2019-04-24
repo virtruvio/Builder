@@ -11,7 +11,11 @@
     "repositories": [
       {
         "type": "vcs",
-        "url": "https://github.com/virtruvio/FormMaker"
+        "url": "https://github.com/virtruvio/formmaker"
+      },
+      {
+        "type": "vcs",
+        "url": "https://github.com/virtruvio/crypto"
       }
     ],
     "require": {
@@ -19,6 +23,7 @@
         "doctrine/dbal": "^2.5",
         "illuminate/support": "^5.7",
         "grafite/crudmaker": "^1.4",
+        "grafite/crypto": "dev-master as 1.0.x-dev",
         "grafite/formmaker": "dev-master as 1.3.x-dev"
     },
     "require-dev": {
